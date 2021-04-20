@@ -24,7 +24,7 @@ Epoch는 7로 짧게 돌려서 추이만 살피고자 했습니다.
 ---
 
 ### ResNet-50, Plain-50 비교
-    - Residual block 일때의 ResNet과 Plain 비교
+   - Residual block 일때의 ResNet과 Plain 비교
     
 ![ResNet50_Plain50.jpg](./images/ResNet50_Plain50.jpg)
 
@@ -32,21 +32,21 @@ Epoch는 7로 짧게 돌려서 추이만 살피고자 했습니다.
 ---
 
 ### ResNet-34, Plain-50 비교
-    - layer의 깊이가 깊기만 해서 더 좋은 결과가 나오는지 비교 <br> **[ shortcut ]**   
+   - layer의 깊이가 깊기만 해서 더 좋은 결과가 나오는지 비교 <br> **[ shortcut ]**   
     
 ![ResNet34_Plain50.jpg](./images/ResNet34_Plain50.jpg)
 
 ---
 
 ### ResNet-34 ResNet-50 비교
-    - Residual block을 적용한 구조와 아닌 ResNet 구조의 비교
+   - Residual block을 적용한 구조와 아닌 ResNet 구조의 비교
 
 ![ResNet50_ResNet34.jpg](./images/ResNet50_ResNet34.jpg)
 
 ---
 
 ### Plain-34, Plain-50 비교
-    - 그렇다면 shortcut이 없을때 layer가 더 깊을수록 좋은 성능인지 비교
+   - 그렇다면 shortcut이 없을때 layer가 더 깊을수록 좋은 성능인지 비교
     
 ![Plain50_Plain34.jpg](./images/Plain50_Plain34.jpg)
 
